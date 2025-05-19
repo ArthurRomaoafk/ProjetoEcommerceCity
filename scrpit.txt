@@ -1,5 +1,5 @@
-create database dbLima;
-use dbLima;
+create database dbArthur;
+use dbArthur;
 
 create table tbUsuario(
 Id int primary key,
